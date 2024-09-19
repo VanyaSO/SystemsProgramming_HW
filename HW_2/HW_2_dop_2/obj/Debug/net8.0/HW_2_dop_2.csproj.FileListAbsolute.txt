@@ -1,0 +1,14 @@
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/bin/Debug/net8.0/HW_2_dop_2
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/bin/Debug/net8.0/HW_2_dop_2.deps.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/bin/Debug/net8.0/HW_2_dop_2.runtimeconfig.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/bin/Debug/net8.0/HW_2_dop_2.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/bin/Debug/net8.0/HW_2_dop_2.pdb
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/obj/Debug/net8.0/HW_2_dop_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/obj/Debug/net8.0/HW_2_dop_2.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/obj/Debug/net8.0/HW_2_dop_2.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/obj/Debug/net8.0/HW_2_dop_2.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/obj/Debug/net8.0/HW_2_dop_2.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/obj/Debug/net8.0/refint/HW_2_dop_2.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/obj/Debug/net8.0/HW_2_dop_2.pdb
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/obj/Debug/net8.0/HW_2_dop_2.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_2/HW_2_dop_2/obj/Debug/net8.0/ref/HW_2_dop_2.dll
