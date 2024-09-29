@@ -1,0 +1,15 @@
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/bin/Debug/net8.0/HW_6
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/bin/Debug/net8.0/HW_6.deps.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/bin/Debug/net8.0/HW_6.runtimeconfig.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/bin/Debug/net8.0/HW_6.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/bin/Debug/net8.0/HW_6.pdb
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/HW_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/HW_6.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/HW_6.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/HW_6.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/HW_6.sourcelink.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/HW_6.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/refint/HW_6.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/HW_6.pdb
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/HW_6.genruntimeconfig.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_6/HW_6/obj/Debug/net8.0/ref/HW_6.dll
