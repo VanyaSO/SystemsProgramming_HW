@@ -1,0 +1,12 @@
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/bin/Debug/net8.0/TextManager.deps.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/bin/Debug/net8.0/TextManager.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/bin/Debug/net8.0/TextManager.pdb
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/obj/Debug/net8.0/TextManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/obj/Debug/net8.0/TextManager.AssemblyInfoInputs.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/obj/Debug/net8.0/TextManager.AssemblyInfo.cs
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/obj/Debug/net8.0/TextManager.csproj.CoreCompileInputs.cache
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/obj/Debug/net8.0/TextManager.sourcelink.json
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/obj/Debug/net8.0/TextManager.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/obj/Debug/net8.0/refint/TextManager.dll
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/obj/Debug/net8.0/TextManager.pdb
+/Users/ivanushachov/Desktop/STEP/SystemsProgramming/SystemsProgramming_HW/HW_9/TextManager/obj/Debug/net8.0/ref/TextManager.dll

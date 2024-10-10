@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HW_9_dop_3/1.0.0": {
+        "dependencies": {
+          "TextManager": "1.0.0"
+        },
+        "runtime": {
+          "HW_9_dop_3.dll": {}
+        }
+      },
+      "TextManager/1.0.0": {
+        "runtime": {
+          "TextManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW_9_dop_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
